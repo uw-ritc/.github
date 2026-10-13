@@ -6,7 +6,7 @@
 
 We are the University of Warsaw team competing annually in the [Rotman International Trading
 Competition](https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rotman-international-trading-competition/)
-hosted at the Rotman School of Management, University of Toronto. The competition brings together {{~50}} universities worldwide for three days of live simulated trading across equities, options, commodities, and algorithmic cases.
+hosted at the Rotman School of Management, University of Toronto. The competition brings together ~50 universities worldwide for three days of live simulated trading across equities, options, commodities, and algorithmic cases.
 
 
 ## Results
