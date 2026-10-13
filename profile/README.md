@@ -9,6 +9,9 @@
 | 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, Bartosz Bieganowski |
 | 2020 | 5 | [Katarzyna Kryńska] , [Mateusz Kijewski] , [Michał Woźniak], [Maciej Wysocki] |
 
+Opiekun: [Robert Ślepaczuk]
+
+[Robert Ślepaczuk]: https://github.com/robertslepaczuk
 [Mikołaj Marszałek]: https://github.com/nanomiki
 [Agata Tomaszewska]: https://github.com/agataTomaszewsk
 [Adam Łaziński]: https://github.com/adamlazinski
