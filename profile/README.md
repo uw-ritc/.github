@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="..\assets\hall-of-fame-2026.jpeg" alt="HallOfFame">
+</p>
+
 ## Results
 
 Faculty advisor: [Robert Ślepaczuk]
