@@ -1,4 +1,4 @@
-## RITC UW Team results
+## Results
 
 Faculty advisor: [Robert Ślepaczuk]
 
