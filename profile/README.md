@@ -1,5 +1,7 @@
 ## RITC UW Team results
 
+Faculty advisor: [Robert Ślepaczuk]
+
 | Year | Place | Team |
 |:-----|:------|:-----|
 | 2026 | 2 | [Jakub Fiłoń], [Filip Bronisz], [Jan Wołyniak], [Paweł Wienclaw], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
@@ -8,8 +10,6 @@
 | 2023 | 2* | [Jakub Kasprzak], [Bartosz Bieganowski], Illia Baranochnikov, [Jakub Wnęk] |
 | 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, [Bartosz Bieganowski] |
 | 2020 | 5 | [Katarzyna Kryńska] , [Mateusz Kijewski] , [Michał Woźniak], [Maciej Wysocki] |
-
-Faculty advisor: [Robert Ślepaczuk]
 
 [Robert Ślepaczuk]: https://github.com/robertslepaczuk
 [Mikołaj Marszałek]: https://github.com/nanomiki
