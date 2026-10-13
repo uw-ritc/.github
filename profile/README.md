@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="..\assets\hall-of-fame-2026.jpeg" alt="HallOfFame" >
+  <img src="https://raw.githubusercontent.com/uw-ritc/.github/main/assets/hall-of-fame-2026.jpeg" alt="HallOfFame" >
 </p>
 
 ## Results
