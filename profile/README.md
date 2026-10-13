@@ -36,7 +36,7 @@ Faculty advisor: [Robert Ślepaczuk]
 [Jan Wołyniak]: https://github.com/janwolyniak
 [Paweł Jakubowski]: https://github.com/paweljakubowski01
 [Jakub Fiłoń]: https://github.com/jakub-filon
-[Filip Bronisz]: https://github.com/pBraxton02
+[Filip Bronisz]: https://github.com/pBraxt0n
 [Franciszek Windorbski]: https://github.com/FranekGit
 [Dominik Stempień]: https://github.com/ldjim21
 [Mateusz Kijewski]: https://github.com/Ymath1
