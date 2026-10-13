@@ -24,7 +24,7 @@ Faculty advisor: [Robert Ślepaczuk]
 [Paweł Wienclaw]: https://github.com/Spirbel1
 [Quoc Frejter]: https://github.com/anfrejter
 [Jan Wołyniak]: https://github.com/janwolyniak
-[Paweł Jakubowski]: https://github.com/paweljakubowski01s
+[Paweł Jakubowski]: https://github.com/paweljakubowski01
 [Jakub Fiłoń]: https://github.com/jakub-filon
 [Filip Bronisz]: https://github.com/pBraxton02
 [Franciszek Windorbski]: https://github.com/FranekGit
