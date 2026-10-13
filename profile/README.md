@@ -2,6 +2,13 @@
   <img src="https://raw.githubusercontent.com/uw-ritc/.github/main/assets/hall-of-fame-2026.jpeg" alt="HallOfFame" >
 </p>
 
+## About
+
+We are the University of Warsaw team competing annually in the [Rotman International Trading
+Competition](https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rotman-international-trading-competition/)
+hosted at the Rotman School of Management, University of Toronto. The competition brings together ~50 universities worldwide for three days of live simulated trading across equities, options, commodities, FX, and algorithmic cases.
+
+
 ## Results
 
 Faculty advisor: [Robert Ślepaczuk]
@@ -15,6 +22,8 @@ Faculty advisor: [Robert Ślepaczuk]
 | 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, [Bartosz Bieganowski] |
 | 2020 | 5 | [Katarzyna Kryńska] , [Mateusz Kijewski] , [Michał Woźniak], [Maciej Wysocki] |
 
+
+<!-- member links -->
 [Robert Ślepaczuk]: https://github.com/robertslepaczuk
 [Mikołaj Marszałek]: https://github.com/nanomiki
 [Agata Tomaszewska]: https://github.com/agataTomaszewsk
