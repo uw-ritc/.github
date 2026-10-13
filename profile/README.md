@@ -5,8 +5,8 @@
 | 2026 | 2 | [Jakub Fiłoń], [Filip Bronisz], [Jan Wołyniak], [Paweł Wienclaw], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
 | 2025 | 3 | [Zofia Bracha], [Maciej Wysocki], [Adam Łaziński], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
 | 2024 | 4 | [Agata Tomaszewska], [Mikołaj Marszałek], [Adam Łaziński], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
-| 2023 | 2* | [Jakub Kasprzak], Bartosz Bieganowski, Illia Baranochnikov, [Jakub Wnęk] |
-| 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, Bartosz Bieganowski |
+| 2023 | 2* | [Jakub Kasprzak], [Bartosz Bieganowski], Illia Baranochnikov, [Jakub Wnęk] |
+| 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, [Bartosz Bieganowski] |
 | 2020 | 5 | [Katarzyna Kryńska] , [Mateusz Kijewski] , [Michał Woźniak], [Maciej Wysocki] |
 
 Opiekun: [Robert Ślepaczuk]
@@ -30,3 +30,4 @@ Opiekun: [Robert Ślepaczuk]
 [Michał Woźniak]: https://github.com/michaelwozniak
 [Jakub Wnęk]: https://github.com/kubawn
 [Jakub Kasprzak]: https://github.com/j0kasprzak
+[Bartosz Bieganowski]: https://github.com/BBieganowski
