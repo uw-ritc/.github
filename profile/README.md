@@ -1,4 +1,4 @@
-## Hall Of Fame
+## Wyniki RITC
 
 | Rok | Miejsce | Zespół |
 |:-----|:------|:-----|
