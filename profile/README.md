@@ -22,6 +22,8 @@ Faculty advisor: [Robert Ślepaczuk]
 | 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, [Bartosz Bieganowski] |
 | 2020 | 5 | [Katarzyna Kryńska] , [Mateusz Kijewski] , [Michał Woźniak], [Maciej Wysocki] |
 
+<sub>* Online edition.</sub>
+
 
 <!-- member links -->
 [Robert Ślepaczuk]: https://github.com/robertslepaczuk
