@@ -1,6 +1,6 @@
-## Wyniki RITC
+## RITC UW Team results
 
-| Rok | Miejsce | Zespół |
+| Year | Place | Team |
 |:-----|:------|:-----|
 | 2026 | 2 | [Jakub Fiłoń], [Filip Bronisz], [Jan Wołyniak], [Paweł Wienclaw], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
 | 2025 | 3 | [Zofia Bracha], [Maciej Wysocki], [Adam Łaziński], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
@@ -9,7 +9,7 @@
 | 2022 | 6 | Karolina Sulej, [Jakub Kasprzak], Illia Baranochnikov, [Bartosz Bieganowski] |
 | 2020 | 5 | [Katarzyna Kryńska] , [Mateusz Kijewski] , [Michał Woźniak], [Maciej Wysocki] |
 
-Opiekun: [Robert Ślepaczuk]
+Faculty advisor: [Robert Ślepaczuk]
 
 [Robert Ślepaczuk]: https://github.com/robertslepaczuk
 [Mikołaj Marszałek]: https://github.com/nanomiki
