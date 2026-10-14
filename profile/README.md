@@ -14,7 +14,7 @@ Faculty advisor: [Robert Ślepaczuk]
 
 | Year | Place | Team |
 |:-----|:------|:-----|
-| 2026 | 2 | [Jakub Fiłoń], [Filip Bronisz], [Jan Wołyniak], [Paweł Wienclaw], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
+| 2026 | 2 | [Jakub Fiłon], [Filip Bronisz], [Jan Wołyniak], [Paweł Wienclaw], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
 | 2025 | 3 | [Zofia Bracha], [Maciej Wysocki], [Adam Łaziński], [Quoc Frejter], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
 | 2024 | 4 | [Agata Tomaszewska], [Mikołaj Marszałek], [Adam Łaziński], [Paweł Jakubowski], [Franciszek Windorbski], [Dominik Stempień] |
 | 2023 | 2* | [Jakub Kasprzak], [Bartosz Bieganowski], Illia Baranochnikov, [Jakub Wnęk] |
@@ -35,7 +35,7 @@ Faculty advisor: [Robert Ślepaczuk]
 [Quoc Frejter]: https://github.com/anfrejter
 [Jan Wołyniak]: https://github.com/janwolyniak
 [Paweł Jakubowski]: https://github.com/paweljakubowski01
-[Jakub Fiłoń]: https://github.com/jakub-filon
+[Jakub Fiłon]: https://github.com/jakub-filon
 [Filip Bronisz]: https://github.com/pBraxton02
 [Franciszek Windorbski]: https://github.com/FranekGit
 [Dominik Stempień]: https://github.com/ldjim21
